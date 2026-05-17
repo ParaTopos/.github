@@ -4,7 +4,7 @@ Or dual naming:
 Topos
 = philosophy/protocol
 
-i2pchat
+i2pos
 = concrete product
 
 This usually works better than calling everything with single name.
