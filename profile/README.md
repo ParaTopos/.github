@@ -4,7 +4,7 @@ Or dual naming:
 Topos
 = philosophy/protocol
 
-parastate
+i2pos parastate
 = concrete product
 
 This usually works better than calling everything with single name.
